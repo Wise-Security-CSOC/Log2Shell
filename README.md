@@ -1,2 +1,2 @@
 # Log2Shell
-Log4Shell IOCs and general informations
+Log4Shell IOCs and general informations.
